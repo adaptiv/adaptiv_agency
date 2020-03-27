@@ -272,17 +272,17 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
+}
+
+header .intro {
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/adaptiv-bg.jpg');
     background-position: center 100px;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     background-size: contain;
     -o-background-size: contain;
-}
-
-header .intro-text {
     height: 500px;
 }
 
