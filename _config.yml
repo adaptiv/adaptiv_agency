@@ -17,15 +17,15 @@ people:
 
 - name: Joakim Manding Holm
   pic: 3
-  about: Organisationsutvecklare, förändringsguide, teamledare/coach, systemutvecklare (fokus Elixir, Java), världsförbättrare
+  about: Organisationsutvecklare, förändringsguide, teamledare/coach, systemutvecklare (fokus: Elixir, Java), världsförbättrare
 
 - name: Johan Hallstensson
   pic: 4
-  about: Systemutvecklare (fokus Elixir, Ruby, Javascript), teamkär ensamvarg
+  about: Systemutvecklare (fokus: Elixir, Ruby), teamkär ensamvarg
 
 - name: Måns Sandström
   pic: 5
-  about: Systemutvecklare, ledarskapscoach, organisationsutvecklare, förändringsguide, utanför ramen-tänkande filosof
+  about: Systemutvecklare (fokus: Ruby, Elixir, Java), ledarskapscoach, organisationsutvecklare, förändringsguide, utanför ramen-tänkande filosof
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
