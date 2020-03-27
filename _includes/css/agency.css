@@ -273,19 +273,17 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-adaptiv.jpg');
-    background-position: center center;
+    background-image: url('{{ site.baseurl }}/img/adaptiv-bg.jpg');
+    background-position: center 100px;
     background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
 }
 
 header .intro-text {
-    padding-top: 100px;
-    height: 800px;
-    padding-bottom: 50px;
+    height: 500px;
 }
 
 header .intro-text .intro-lead-in {
