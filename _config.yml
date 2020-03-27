@@ -17,11 +17,14 @@ people:
 
 - name: Joakim Manding Holm
   pic: 3
-  about: Organisationsutvecklare, förändringsguide, teamledare/coach, systemutvecklare (fokus på Elixir, Java), pragmatisk idealist
+  about: Organisationsutvecklare, förändringsguide, teamledare/coach, systemutvecklare (fokus på Elixir, Java), pianistisk idealist
+  social:
+  - title: twitter
+    url: http://twitter.com/jockeholm
 
 - name: Johan Hallstensson
   pic: 4
-  about: Systemutvecklare (fokus på Elixir, Ruby), teamkär ensamvarg
+  about: Systemutvecklare (fokus på Elixir, Ruby), teamkär fixare
 
 - name: Måns Sandström
   pic: 5
