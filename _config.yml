@@ -10,10 +10,20 @@ people:
 - name: Adam Killander
   pic: 1
   about: Systemutvecklare (fokus på Javascript, Java), teamledare/coach, agil coach, harmoniskapande teaterapa
+  social:
+  - title: twitter
+    url: http://twitter.com/adamkillander
+  - title: linkedin
+    url: https://www.linkedin.com/in/adamkillander/
 
 - name: Johan Dewe
   pic: 2
   about: Systemutvecklare (fokus på Go, Javascript, .Net), teknisk ledare/coach, teamledare/coach, agil arkitekt, snöälskande docent
+  social:
+  - title: twitter
+    url: http://twitter.com/johandewe
+  - title: linkedin
+    url: https://www.linkedin.com/in/johandewe/
 
 - name: Joakim Manding Holm
   pic: 3
@@ -26,11 +36,19 @@ people:
 
 - name: Johan Hallstensson
   pic: 4
-  about: Systemutvecklare (fokus på Elixir, Ruby), teamkär fixare
+  about: Systemutvecklare (fokus på Elixir, Ruby), teknisk ledare/coach, mobbprogrammeringsexpert, teamkär fixare
+  social:
+  - title: twitter
+    url: http://twitter.com/jlind
 
 - name: Måns Sandström
   pic: 5
   about: Systemutvecklare (fokus på Ruby, Elixir, Java), ledarskapscoach, organisationsutvecklare, förändringsguide, utanför ramen-tänkande filosof
+  social:
+  - title: twitter
+    url: http://twitter.com/manssandstrom
+  - title: linkedin
+    url: https://www.linkedin.com/in/manssandstrom/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
