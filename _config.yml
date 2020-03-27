@@ -9,23 +9,23 @@ description: "Adaptiv är ett IT-konsultbolag med verksamhet i Stockholmsområde
 people:
 - name: Adam Killander
   pic: 1
-  about: Systemutvecklare (fokus: Javascript, Java), teamledare/coach, agil coach, teaterapa
+  about: Systemutvecklare (fokus på Javascript, Java), teamledare/coach, agil coach, teaterapa
 
 - name: Johan Dewe
   pic: 2
-  about: Systemutvecklare (fokus: Go, Javascript, .Net), teknisk ledare/coach, teamledare/coach, agil arkitekt, lektor
+  about: Systemutvecklare (fokus på Go, Javascript, .Net), teknisk ledare/coach, teamledare/coach, agil arkitekt, lektor
 
 - name: Joakim Manding Holm
   pic: 3
-  about: Organisationsutvecklare, förändringsguide, teamledare/coach, systemutvecklare (fokus: Elixir, Java), världsförbättrare
+  about: Organisationsutvecklare, förändringsguide, teamledare/coach, systemutvecklare (fokus på Elixir, Java), världsförbättrare
 
 - name: Johan Hallstensson
   pic: 4
-  about: Systemutvecklare (fokus: Elixir, Ruby), teamkär ensamvarg
+  about: Systemutvecklare (fokus på Elixir, Ruby), teamkär ensamvarg
 
 - name: Måns Sandström
   pic: 5
-  about: Systemutvecklare (fokus: Ruby, Elixir, Java), ledarskapscoach, organisationsutvecklare, förändringsguide, utanför ramen-tänkande filosof
+  about: Systemutvecklare (fokus på Ruby, Elixir, Java), ledarskapscoach, organisationsutvecklare, förändringsguide, utanför ramen-tänkande filosof
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
