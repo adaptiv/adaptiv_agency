@@ -11,6 +11,10 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Adam Killander
   pic: 1
+  about:
+  - Ett team som arbetat med Adam känns igen på deras engagerade och utåtriktade kommunikation och deras fokus på att leverera demonstrerbar funktionalitet. Adam är en systemutvecklare som blivit teamledare och förbättringscoach och han brinner för att hitta praktiska övningar som leder teamen till nya uppbyggliga insikter. Adam älskar att förmedla det han kan för andra och han gör det med medvetna pedagogiska grepp. Han sporras av att utvecklas tillsammans med andra människor i arbetet.
+  - Team och ledarskap som utvecklats med Adams hjälp återfinns på Skandia, Linkon, Arbetsförmedlingen och TUI Nordic.
+  - Adam har också hållit flera bejublade tal på Agila Sverige, SAST och hos kunder där han utnyttjat sin dramatiska förmåga. Han är gift familjefar och bor i Solna utanför Stockholm.
 
 - name: Johan Dewe
   pic: 2
@@ -22,9 +26,16 @@ people:
 
 - name: Johan Hallstensson
   pic: 4
+  about:
+  - Johan är en erfaren och kunnig utvecklare som noga följer med i den tekniska frontlinjen. Att hålla det enkelt och inte krångla till processer, arkitektur eller design är en av Johans nyckelkompetenser, liksom hans förmåga till vardagligt samarbete.
+  - Johan har med sin långa erfarenhet som utvecklare verkat i flera olika programmeringsspråk och miljöer. Han är väl bevandrad i flera olika agila metoder och bryr sig inte bara om hur resultatet blir utan även hur människorna som åstadkommer det mår.
 
 - name: Måns Sandström
   pic: 5
+  about:
+  - Måns har tryggheten och kompetensen att vägleda arbetet att skapa en organisation genomsyrad av agila värderingar och vanor. Genom att kombinera kunskap om agila förhållningssätt och förändringspsykologi hjälper han er att tänka i nya banor och åstadkomma förändring som ger effekt.
+  - Han har erfarenhet från agil utveckling, allt ifrån det tekniska, till ledarskap, organisation och förändringsledning.
+  - Bland erfarenheterna märks vägtullsprojektet där han var med och etablerade agila team som levererade en produkt av hög kvalitet och utvecklingen av den nya, agilt inriktade, IT-organisationen på Skandia Liv. Gift tvåbarnsfar, boende i Gubbängen i Stockholm där han gillar att löpträna och fotografera på fritiden.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
