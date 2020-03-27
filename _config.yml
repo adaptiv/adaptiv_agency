@@ -22,7 +22,7 @@ people:
 
 - name: Jocke Manding Holm
   pic: 3
-  about: Joakim är en ovanlig konsult i det att hans horisont sträcker sig långt utöver den vanliga. En metodförändring med honom kommer att involvera hela organisationen, detta eftersom värdeströmmar och företagskultur inte tenderar att hålla sig inom prydliga organisatoriska lådor. Joakims passion och engagemang gör att han inte ger upp när han stöter på utmaningar och han har ett sinne för konsekvens, signalvärden och helhet. Joakim har lång erfarenhet av att coacha agila team och införa nya arbetssätt. Han hade till exempel stor del i TUI Nordics satsning på agil utveckling, ett arbete som ledde fram till en helt ny organisationsstruktur med fasta utvecklingsteam ledda av teamcoacher. Joakim gillar att dela med sig av sin kunskap, ibland som talare på konferenser. Han läser mycket och lär sig genom att själv sammanfatta egna tankar och insikter i bloggform. Löpning och pianospelande är Joakims sätt att koppla av och reflektera.
+  about: Joakim är en erfaren konsult som främst jobbar med agil coachning, ledarskap och förändring.
 
 - name: Johan Hallstensson
   pic: 4
@@ -42,7 +42,7 @@ social:
   - title: twitter
     url: http://twitter.com/adaptivsthlm
   - title: linkedin
-    url: https://se.linkedin.com/company/adaptiv-sthlm-ab 
+    url: https://se.linkedin.com/company/adaptiv-sthlm-ab
 
 # Postal address (add as many lines as necessary)
 address:
