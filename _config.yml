@@ -3,9 +3,7 @@ url: https://adaptiv.github.io
 
 # Site settings
 title: Adaptiv
-email: hej@adaptiv.se
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+description: "Adaptiv är ett IT-konsultbolag med verksamhet i Stockholmsområdet. Vår utgångspunkt är att de produkter, system och funktioner vi skapar ska ge verklig affärsnytta och nöjda kunder. Vi kan skapa de metodmässiga och tekniska förutsättningarna för detta."
 
 # Team names, titles and social links
 people:
@@ -27,7 +25,7 @@ people:
 
 - name: Måns Sandström
   pic: 5
-  about: Agil utveckling, allt ifrån det tekniska, till ledarskap, organisation och förändringsledning.
+  about: Agil utvecklare, allt ifrån det tekniska, till ledarskap, organisation och förändringsledning.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
