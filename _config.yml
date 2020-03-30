@@ -18,14 +18,14 @@ people:
 
 - name: Johan Dewe
   pic: 2
-  about: Systemutvecklare (fokus på Go, Javascript, .Net), teknisk ledare/coach, teamledare/coach, agil arkitekt, snöälskande docent
+  about: Systemutvecklare (fokus på Go, Javascript, .Net), teknisk ledare/coach, teamledare/coach, snöälskande docent
   social:
   - title: twitter
     url: http://twitter.com/johandewe
   - title: linkedin
     url: https://www.linkedin.com/in/johandewe/
 
-- name: Joakim Manding Holm
+- name: Joakim M. Holm
   pic: 3
   about: Organisationsutvecklare, interimschef, teamledare/coach, systemutvecklare (fokus på Elixir, Java), pianistisk idealist
   social:
