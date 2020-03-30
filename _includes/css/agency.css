@@ -50,14 +50,6 @@ a.active {
     color: #fff;
 }
 
-a.dark {
-    color: #333;
-}
-
-a.dark:hover {
-    color: #ddd;
-}
-
 h1,
 h2,
 h3,
