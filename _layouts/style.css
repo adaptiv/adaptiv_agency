@@ -6,6 +6,8 @@ a.dark {
     color: #333;
 }
 
-a.dark:hover {
-    color: #ddd;
+a.dark:hover,
+a.dark:focus,
+a.dark:active {
+    color: #999;
 }
