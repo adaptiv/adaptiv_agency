@@ -35,3 +35,13 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$('#more-org').click(function(event) {
+    $('#team').toggle();
+    event.preventDefault();
+});
+
+$('#more-tech').click(function(event) {
+    $('#team').toggle();
+    event.preventDefault();
+});
