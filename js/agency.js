@@ -37,11 +37,13 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 $('#more-org').click(function(event) {
-    $('#team').toggle();
+    $('#team-org').show();
+    $('#team-tech').hide();
     event.preventDefault();
 });
 
 $('#more-tech').click(function(event) {
-    $('#team').toggle();
+    $('#team-tech').show();
+    $('#team-org').hide();
     event.preventDefault();
 });

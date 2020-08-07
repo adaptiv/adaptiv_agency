@@ -6,7 +6,35 @@ title: Adaptiv
 description: "Adaptiv är ett IT-konsultbolag med verksamhet i Stockholmsområdet. Vår utgångspunkt är att de produkter, system och funktioner vi skapar ska ge verklig affärsnytta och nöjda kunder. Vi kan skapa de metodmässiga och tekniska förutsättningarna för detta."
 
 # Team names, titles and social links
-people:
+team-org-people:
+- name: Adam Killander
+  pic: 1
+  about: Systemutvecklare (fokus på Javascript, Java), teamledare/coach, agil coach, harmoniskapande teaterapa
+  social:
+  - title: twitter
+    url: http://twitter.com/adamkillander
+  - title: linkedin
+    url: https://www.linkedin.com/in/adamkillander/
+
+- name: Joakim M. Holm
+  pic: 3
+  about: Organisationsutvecklare, interimschef, teamledare/coach, systemutvecklare (fokus på Elixir, Java), pianistisk idealist
+  social:
+  - title: twitter
+    url: http://twitter.com/jockeholm
+  - title: linkedin
+    url: https://www.linkedin.com/in/jockeholm/
+
+- name: Måns Sandström
+  pic: 5
+  about: Systemutvecklare (fokus på Ruby, Elixir, Java), ledarskapscoach, organisationsutvecklare, förändringsguide
+  social:
+  - title: twitter
+    url: http://twitter.com/manssandstrom
+  - title: linkedin
+    url: https://www.linkedin.com/in/manssandstrom/
+
+team-tech-people:
 - name: Adam Killander
   pic: 1
   about: Systemutvecklare (fokus på Javascript, Java), teamledare/coach, agil coach, harmoniskapande teaterapa
@@ -25,15 +53,6 @@ people:
   - title: linkedin
     url: https://www.linkedin.com/in/johandewe/
 
-- name: Joakim M. Holm
-  pic: 3
-  about: Organisationsutvecklare, interimschef, teamledare/coach, systemutvecklare (fokus på Elixir, Java), pianistisk idealist
-  social:
-  - title: twitter
-    url: http://twitter.com/jockeholm
-  - title: linkedin
-    url: https://www.linkedin.com/in/jockeholm/
-
 - name: Johan Hallstensson
   pic: 4
   about: Systemutvecklare (fokus på Elixir, Ruby), teknisk ledare/coach, mobbprogrammeringsexpert, teamkär egenfixare
@@ -50,7 +69,7 @@ people:
   - title: linkedin
     url: https://www.linkedin.com/in/manssandstrom/
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+    # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/adaptivsthlm
