@@ -23,5 +23,6 @@ For more details, read [documentation](http://jekyllrb.com/)
 ## Run locally
 
 ```bash
+gem install jekyll
 make start
 ```
