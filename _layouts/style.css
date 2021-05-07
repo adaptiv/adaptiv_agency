@@ -12,6 +12,15 @@ a.dark:active {
     color: #999;
 }
 
+.posts {
+  list-style: none;
+  padding-left: 0;
+}
+
+.posts li {
+  line-height: 2;
+}
+
 .post p.post-intro {
   color: #{{ site.data.template.color.muted }};
   font-size: 14px;
@@ -19,4 +28,18 @@ a.dark:active {
 
 .post p {
   font-size: 12px;
+}
+
+.post a {
+  color: #999;
+}
+
+.post a:hover, a:focus, a:active {
+    color: #999;
+}
+
+.post-date {
+  color: #{{ site.data.template.color.muted }};
+  display: inline-block;
+  width: 6em;
 }
