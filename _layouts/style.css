@@ -14,4 +14,9 @@ a.dark:active {
 
 .post p.post-intro {
   color: #{{ site.data.template.color.muted }};
+  font-size: 14px;
+}
+
+.post p {
+  font-size: 12px;
 }
