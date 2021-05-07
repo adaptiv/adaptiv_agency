@@ -1,5 +1,7 @@
 ---
 layout: default
 ---
-<p>{{ page.date | date: "%b %-d, %Y" }} - Skriven av {{ page.author }}</p>
-{{ content }}
+<div class="post">
+  <p class="post-intro">{{ page.date | date: "%b %-d, %Y" }}, av {{ page.author }}</p>
+  {{ content }}
+</div>

@@ -11,3 +11,7 @@ a.dark:focus,
 a.dark:active {
     color: #999;
 }
+
+.post p.post-intro {
+  color: #{{ site.data.template.color.muted }};
+}
