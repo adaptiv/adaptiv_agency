@@ -30,6 +30,11 @@ a.dark:active {
   font-size: 12px;
 }
 
+.post li {
+  font-size: 12px;
+  padding-bottom: 6px;
+}
+
 .post a {
   color: #999;
 }
