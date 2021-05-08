@@ -16,4 +16,4 @@ Adaptivs klimatstrategi behandlar sju inriktningsbeslut som vi har tagit angåen
 6. **Prata och praktisera hållbara principer.** Kunskaperna, värderingarna och principerna kring hållbarhet och klimat är något som vi inte kan särskilja från oss själva och som vi naturligt tar med oss på uppdragen som IT-konsulter.
 7. **Se klimatmedvetenhet som en affärsfördel.** Vi gör det här arbetet för att det känns rätt för oss och för planeten, men ofta finns det affärsfördelar av att släppa sargen och våga innovera.
 
-Klimatstrategin och andra dokument från vårt klimatarbete hittar du på [hållbarhetssida](https://adaptiv.se/sustainability).
+Klimatstrategin och andra dokument från vårt klimatarbete hittar du på [hållbarhetssida](/sustainability).
