@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="post">
-  <p class="post-intro">{{ page.date | localize: "%-d %b %Y" }}, av {{ page.author }}</p>
+  <!-- <p class="post-intro">{{ page.date | localize: "%-d %b %Y" }}, av {{ page.author }}</p> -->
+  <p class="post-intro">{{ page.date | date: "%Y-%m-%d" }}, av {{ page.author }}</p>
   {{ content }}
 </div>
