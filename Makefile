@@ -1,2 +1,2 @@
 start:
-	jekyll serve
+	jekyll serve --livereload
