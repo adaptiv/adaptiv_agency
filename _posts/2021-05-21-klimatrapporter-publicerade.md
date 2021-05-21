@@ -10,13 +10,13 @@ Sedan några veckor finns [Adaptivs klimatrapporter för verksamhetsåren 2018-2
 
 ## Våra reflektioner
 
-Det som gladde oss mest var givetvis att vårt klimatavtryck blev lågt, alltså även före pandemin. Det landade på ca **4 ton CO2e/år**[1] för hela bolaget eller ca **0,8 ton CO2e per medarbetare och år**. Då vi hade räknat med ungefär 8-12 ton/år, baserat på de enklare klimatkalkylatorer som finns att tillgå på nätet, var detta glädjande lågt.
+Det som gladde oss mest var givetvis att vårt klimatavtryck blev lågt, alltså även före pandemin. Det landade på ca **4 ton CO₂e/år**[1] för hela bolaget eller ca **0,8 ton CO₂e per medarbetare och år**. Då vi hade räknat med ungefär 8-12 ton/år, baserat på de enklare klimatkalkylatorer som finns att tillgå på nätet, var detta glädjande lågt.
 
 En konstig effekt av det här är att det låga resultatet eventuellt kommer att göra det svårt för oss att kunna kapa vårt klimatavtryck rejält i framtiden. Risken är snarare att det kommer att gå upp något kommande år, när resandet kommer igång igen.
 
 En uppenbar sak i rapporten är att bidraget från resor är väldigt lågt. En sak som vi haft med oss från början är att satsa på regionala kunder från början för att slippa långa resor. Enbart i några enstaka fall under 11 år har vi genomfört uppdrag på annan ort. Adaptiv är inte heller ett bilåkande företag. En orsak till det är att vi i många år givit ut (skattade) förmåner till ett årligt SL-kort och för att skaffa sig en bra cykel. Vi åker också nästan uteslutande kommunalt och cykel.
 
-Det är slående hur mycket CO2-bidrag som kommer från en enstaka flygresa. Generellt sett reser vi dock inte så mycket längre, vi började att dra ner på det redan före åren för dessa rapporter.
+Det är slående hur mycket CO₂-bidrag som kommer från en enstaka flygresa. Generellt sett reser vi dock inte så mycket längre, vi började att dra ner på det redan före åren för dessa rapporter.
 
 En överraskning från rapporterna var väl att den förmånsbil som vi tog in i verksamheten på egen hand orsakar utsläpp som i stort sett motsvarar alla de tjänsteresor som vi undvikit under en del av pandemiåret.
 
@@ -36,4 +36,4 @@ Vi kommer nu att använda vårt resultat (ca 4 ton/år) och kompensera för vår
 
 ---
 
-[1] Med CO2e avses *koldioxidekvivalenter*, det vill säga där även andra typer av växthusgaser översätts till CO2 för att få ett tydligt mått.
+[1] Med CO₂e avses *koldioxidekvivalenter*, det vill säga där även andra typer av växthusgaser översätts till CO₂ för att få ett tydligt mått.
