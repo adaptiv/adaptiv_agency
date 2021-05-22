@@ -1,2 +1,2 @@
 start:
-	jekyll serve --livereload
+	jekyll serve --livereload --drafts
