@@ -38,3 +38,7 @@ Icon
 
 # jekyll
 .jekyll-cache/
+
+# local bundle
+.bundle/
+vendor/
