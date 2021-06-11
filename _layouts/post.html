@@ -5,4 +5,20 @@ layout: default
   <!-- <p class="post-intro">{{ page.date | localize: "%-d %b %Y" }}, av {{ page.author }}</p> -->
   <p class="post-intro">{{ page.date | date: "%Y-%m-%d" }}, av {{ page.author }}</p>
   {{ content }}
+
+</div>
+<hr />
+<div>
+
+  <h4>Mer läsvärt</h4>
+
+  <ul class="posts">
+    {% for post in site.posts limit:5 %}
+    <li>
+      <a class="post-link dark" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <div class="post"><a href="/posts">Fler artiklar…</a></div>
+
 </div>
