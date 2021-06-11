@@ -4,6 +4,8 @@ title:  "Klimatavtrycket av din egenutvecklade molntjänst"
 author: Måns Sandström & Johan Dewe
 ---
 
+# Klimatavtrycket av din egenutvecklade molntjänst
+
 <img class="img-responsive" src="/assets/images/trees-for-compensation.png" alt="Illustration av antal fullstora träd som behövs för att kompensera för nuvarande CPU-energiförbrukning" title="44 fullstora träd behövs för att kompensera nuvarande CPU-energiförbrukning">
 
 Vi på Adaptiv har nyligen beräknat [vårt eget klimatavtryck](https://adaptiv.se/2021/05/21/klimatrapporter-publicerade/). Man kan summera det med att avtrycket är ringa och att våra ansträngningar att sänka det ytterligare troligen inte är det viktigaste vi kan göra för klimatet.
