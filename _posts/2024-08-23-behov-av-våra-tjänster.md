@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adaptivs klimatresa"
+title:  "Behövs Adaptiv?"
 author: Måns Sandström
 ---
 
