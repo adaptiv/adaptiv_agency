@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Sluta arkitekta din plattform på spekulation"
+author: Joakim Manding Holm
+---
+
 # Sluta arkitekta din plattform på spekulation – Härled den från klienterna
 
 Ibland finns det behov av en mjukvaruplattform. Lockelserna med en plattform kan vara stora och ibland kan en plattform vara motiverad, till exempel när den skulle skapa stora produktivitetsfördelar för team som ska utveckla klienter eller applikationer på plattformen, eller när alla klienter ska ha en liknande användarupplevelse.
@@ -24,5 +30,3 @@ Det finns uppenbara fördelar med detta sätt att utveckla en plattform:
 - Vi kan när som helst trappa ner utvecklingen av plattformen med full realisering av värdet hittills.
 
 Så nästa gång du ser behov av en mjukvaruplattform, jobba i små steg, med kvalitet, och härled plattformen från klienterna.
-
-_av Joakim Manding Holm (Adaptiv, 2024)_
