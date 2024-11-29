@@ -7,7 +7,7 @@ Jekyll uses the [Liquid](https://shopify.github.io/liquid/) template language.
 
 ## Agency
 
-We use the Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+We use the Agency theme based on [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/)
 
 ## GitHub Pages
 
@@ -45,7 +45,53 @@ Images are in '/img/about/'
 
 ## Run locally
 
+- [Ruby](https://www.ruby-lang.org/en/) ([rbenv](https://github.com/rbenv/rbenv) recommended)
+- [Bundler](https://bundler.io/)
+
+Run:
+
 ```bash
-gem install jekyll
+bundle install
+make start
+```
+
+Browse to http://localhost:4000
+
+## Trouble shooting
+
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+
+First, remove the Gemfile.lock and regenerate the gems:
+
+```bash
+rm Gemfile.lock
+bundle install
+```
+
+Next step, clean out th ruby environment:
+
+```bash
+# Check your local Ruby version (listed in .ruby-version)
+ruby -v
+
+# Remove all installed gems
+gem uninstall --all --ignore-dependencies --executables
+
+# Uninstall the current Ruby version
+rbenv uninstall <version>
+
+# Clear gem cache
+gem cleanup
+
+# Reinstall Ruby
+rbenv install <version>
+
+# Reinstall Bundler
+gem install bundler
+
+# Install gems
+bundle install
+
+# Run site
 make start
 ```

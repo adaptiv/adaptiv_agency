@@ -1,5 +1,2 @@
 start:
-	jekyll serve --livereload --drafts
-
-start-bundle:
-	bundle exec jekyll server 
+	bundle exec jekyll serve --livereload --drafts
